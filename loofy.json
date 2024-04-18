@@ -3,7 +3,7 @@
   "wake_word": "okay loofy",
   "author": "Brady Jones",
   "website": "https://github.com/Gotdecibels/homeassistvoice",
-  "model": "https://github.com/Gotdecibels/homeassistvoice/blob/main/hey_loofy.tflite",
+  "model": "hey_loofy.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
