@@ -1,0 +1,12 @@
+{
+  "type": "micro",
+  "wake_word": "hey loufee",
+  "author": "Brady Jones",
+  "website": "https://github.com/Gotdecibels/homeassistvoice",
+  "model": "./hey_loufee.tflite",
+  "version": 1,
+  "micro": {
+    "probability_cutoff": 0.5,
+    "sliding_window_average_size": 10
+  }
+}
